@@ -10,6 +10,7 @@ module.exports = {
     'About': [
       'overview',
       'strength',
+      'values',
       'what-is-docsearch',
       'how-does-it-work',
       'who-can-apply',
