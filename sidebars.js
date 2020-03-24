@@ -7,7 +7,7 @@
 
 module.exports = {
   docs: {
-    'Getting Started': [
+    'About': [
       'what-is-docsearch',
       'how-does-it-work',
       'who-can-apply',
