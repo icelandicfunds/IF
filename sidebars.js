@@ -17,6 +17,7 @@ module.exports = {
     'Requirements, tips, FAQ': [
       'required-configuration',
       'tips',
+      'more',
       'faq',
       'integrations',
     ],
