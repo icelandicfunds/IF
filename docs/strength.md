@@ -2,7 +2,7 @@
 title: Strength
 ---
 
-##We always try to exceed our customers’ expectations and constantly make it easier for them to do business with us.
+## We always try to exceed our customers’ expectations and constantly make it easier for them to do business with us.
 
 We always act in our customer’s best interest, not once in a while, but consistently. This means offering products and services and being helpful, courteous and quick to follow up.
 
