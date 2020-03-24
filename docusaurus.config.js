@@ -34,7 +34,7 @@ module.exports = {
       },
       links: [
         {
-          label: 'Documentation',
+          label: 'About',
           to: 'docs/what-is-docsearch',
           position: 'right',
         },
