@@ -1,5 +1,5 @@
 ---
-title: Tips for a good search
+title: More tips for a good search
 ---
 
 DocSearch can work with almost any website, but we've found that some site
