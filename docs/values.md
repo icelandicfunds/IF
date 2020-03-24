@@ -2,7 +2,7 @@
 title: Values
 ---
 
-##We cannot promise specific outcomes or risk-free results.
+## We cannot promise specific outcomes or risk-free results.
 
 What we can promise is to share the truth, and offer honest assessments of our businesses and our prospects; act with integrity; do the right thing, not necessarily the easy or expedient thing; and work with resolve to make this a company of which our shareholders, employees, customers and communities can be proud.
 
