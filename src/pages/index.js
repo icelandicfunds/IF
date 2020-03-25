@@ -37,21 +37,18 @@ function Home() {
 
   return (
     <Layout
-      title="DocSearch: Search made for documentation"
-      description="The easiest way to add search to your documentation - Powered by Algolia"
+      title="Icelandic funds: Capital growth"
+      description="Innovative solutions to accelerate capital growth"
       theme={theme}
       setTheme={setTheme}
     >
       <Hero
         id="hero"
         background="curves"
-        title={
-          <img src={logoUrl} alt="DocSearch" />
-        }
-        subtitle={siteConfig.tagline}
+        title={siteConfig.tagline}
         cta={[
           <Button primary style={{ textDecoration: 'none' }} href={useBaseUrl("/apply")}>
-            Join the Program
+            More
           </Button>,
         ]}
       />
