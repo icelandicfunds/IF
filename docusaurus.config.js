@@ -27,8 +27,8 @@ module.exports = {
         alt: 'Icelandic funds',
         src: 'img/if-logo.svg',
         src_theme: {
-          light: 'img/docsearch-logo.svg',
-          dark: 'img/docsearch-logo-white.svg',
+          light: 'img/if-logo.svg',
+          dark: 'img/if-logo-white.svg',
           href: 'https://docsearch.algolia.com/playground',
         },
       },
