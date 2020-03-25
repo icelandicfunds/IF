@@ -6,14 +6,14 @@
  */
 
 module.exports = {
-  title: 'DocSearch',
+  title: 'Icelandic funds',
   tagline:
-    'The best search experience for docs, integrates in minutes, for free',
-  url: 'https://docsearch.netlify.com',
+    'Innovative solutions to accelerate capital growth',
+  url: 'https://www.icelandicfunds.com',
   baseUrl: '/',
   favicon: 'img/favicon.ico',
-  organizationName: 'Algolia',
-  projectName: 'DocSearch',
+  organizationName: 'Icelandic funds',
+  projectName: 'if',
   themes: ['@docusaurus/theme-search-algolia'],
   plugins: ['my-loaders'], // loader required for .svg
   themeConfig: {
@@ -24,8 +24,8 @@ module.exports = {
     },
     navbar: {
       logo: {
-        alt: 'DocSearch',
-        src: 'img/docsearch-logo.svg',
+        alt: 'Icelandic funds',
+        src: 'img/if-logo.svg',
         src_theme: {
           light: 'img/docsearch-logo.svg',
           dark: 'img/docsearch-logo-white.svg',
