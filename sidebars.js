@@ -14,6 +14,8 @@ module.exports = {
     ],
     'Method': [
       'method/tangibility',
+      'method/diversification',
+      'method/simplification',
     ],
     'Adding DocSearch to your UI': ['dropdown', 'styling', 'behavior'],
     'Requirements, tips, FAQ': [
