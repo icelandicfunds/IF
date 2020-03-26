@@ -1,9 +1,7 @@
 ---
 title: Overview
 ---
-## Iceland-based
-
-We are an Iceland-based asset management and financial services company.
+## We are an Iceland-based asset management and financial services company.
 
 We specialise in private equity, real estate, and tangible investment strategies, as well as financial advisory services.
 
