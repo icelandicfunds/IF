@@ -1,9 +1,8 @@
 ---
 title: Simplification
 ---
-The simplest example of diversification is provided by the proverb "Don't put all your eggs in one basket".
+If it is too complicated, it fosters too many unknowns. No one should invest in something that cannot be understood. We like to keep it simple.
 
-Dropping the basket will break all the eggs. Placing each egg in a different basket is more diversified, the probability of any one basket being dropped notwithstanding. There is more risk of losing one egg (assuming at least one basket has a higher probability of being dropped than the original basket), but less risk of losing all of them.
+We focus on the right allocation of assets based on probability of returns and volatility, and we rebalance our investment portfolio periodically.
 
-In finance, an example of an undiversified portfolio is to hold only one stock. This is risky; it is not unusual for a single stock to go down 50% in one year. It is much less common for a portfolio of 20 stocks to go down that much, especially if they are selected at random.
-If the stocks are selected from a variety of industries, company sizes and types (such as some growth stocks and some value stocks) it is still less likely.
+We ensure that investments do not become too far away from the required level of risk we have fixed.
