@@ -35,12 +35,12 @@ module.exports = {
       links: [
         {
           label: 'About',
-          to: 'docs/what-is-docsearch',
+          to: 'about/overview',
           position: 'right',
         },
         {
-          label: 'GitHub',
-          href: 'https://github.com/algolia/DocSearch',
+          label: 'Method',
+          to: 'method/tangibility',
           position: 'right',
         },
       ],
