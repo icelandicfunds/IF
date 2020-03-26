@@ -12,6 +12,9 @@ module.exports = {
       'about/strength',
       'about/values',
     ],
+    'Method': [
+      'method/tangibility',
+    ],
     'Adding DocSearch to your UI': ['dropdown', 'styling', 'behavior'],
     'Requirements, tips, FAQ': [
       'required-configuration',
