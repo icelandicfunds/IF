@@ -9,6 +9,7 @@ module.exports = {
   docs: {
     'About': [
       'overview',
+      'about/overview',
       'strength',
       'values',
       'what-is-docsearch',
