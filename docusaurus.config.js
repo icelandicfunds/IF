@@ -35,12 +35,12 @@ module.exports = {
       links: [
         {
           label: 'About',
-          to: 'about/overview',
+          to: 'docs/about/overview',
           position: 'right',
         },
         {
           label: 'Method',
-          to: 'method/tangibility',
+          to: 'docs/method/tangibility',
           position: 'right',
         },
       ],
