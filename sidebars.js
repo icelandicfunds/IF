@@ -8,14 +8,9 @@
 module.exports = {
   docs: {
     'About': [
-      'overview',
       'about/overview',
-      'strength',
-      'values',
-      'what-is-docsearch',
-      'how-does-it-work',
-      'who-can-apply',
-      'apply',
+      'about/strength',
+      'about/values',
     ],
     'Adding DocSearch to your UI': ['dropdown', 'styling', 'behavior'],
     'Requirements, tips, FAQ': [
