@@ -47,7 +47,7 @@ function Home() {
         background="curves"
         title={siteConfig.tagline}
         cta={[
-          <Button primary style={{ textDecoration: 'none' }} href={useBaseUrl("/about/overview")}>
+          <Button primary style={{ textDecoration: 'none' }} href={useBaseUrl("/docs/about/overview")}>
             More
           </Button>,
         ]}
