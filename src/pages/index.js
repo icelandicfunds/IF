@@ -54,14 +54,14 @@ function Home() {
       />
 
       <Section>
-        <SectionHeader title="A multi-asset approach to capital growth">
+        <SectionHeader title="Capital growth">
           <Text style={{ maxWidth: '800px' }}>
-            We aim to provide a multi-asset approach, which allows us to take 
-            advantage of multiple growth investment opportunities. 
+            We offer a range of solutions for institutions, financial professionals 
+            and individuals across the globe.
           </Text>
           <Text style={{ maxWidth: '800px' }}>
-            We are committed to helping you find suitable investments for growth 
-            generation with robust solutions, risk monitoring and flexible asset allocation. 
+            We invest across a wide range of asset classes including private equity, 
+            real estate, public debt and equity, and real assets.
           </Text>
         </SectionHeader>
       </Section>
