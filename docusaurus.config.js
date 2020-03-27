@@ -56,11 +56,11 @@ module.exports = {
           title: 'Legal',
           items: [
             {
-              label: 'Terms of use',
-              to: 'docs/legal/terms-of-use',
+              label: 'Terms & Conditions',
+              to: 'docs/legal/terms-and-conditions',
             },
             {
-              label: 'Privacy policy',
+              label: 'Privacy Policy',
               to: 'docs/legal/privacy-policy',
             },
           ],
