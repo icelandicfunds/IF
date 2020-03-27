@@ -1,5 +1,5 @@
 ---
-title: Privacy Policy
+title: Privacy policy
 ---
 
 Your privacy is important to us. It is Icelandic funds' policy to respect your privacy regarding any information we may collect from you across our website, http://www.icelandicfunds.com, and other sites we own and operate.
