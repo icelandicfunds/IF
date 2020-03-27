@@ -48,93 +48,21 @@ module.exports = {
     footer: {
       links: [
         {
-          title: 'Docs',
+          title: 'Legal',
           items: [
             {
-              label: 'Getting Started',
-              to: 'docs/what-is-docsearch',
+              label: 'Terms of use',
+              to: 'docs/legal/terms-of-use',
             },
             {
-              label: 'FAQ',
-              to: 'docs/faq',
-            },
-            {
-              label: 'DocSearch.js',
-              to: 'docs/dropdown',
-            },
-            {
-              label: 'Run your own scraper',
-              to: 'docs/run-your-own',
-            },
-            {
-              label: 'Playground',
-              to: 'playground',
-            },
-          ],
-        },
-        {
-          title: 'DocSearch',
-          items: [
-            {
-              label: 'Issues',
-              to: 'https://github.com/algolia/docsearch/issues',
-            },
-            {
-              label: 'Scraper',
-              to: 'https://github.com/algolia/docsearch-scraper',
-            },
-            {
-              label: 'Configurations',
-              to: 'https://github.com/algolia/docsearch-configs',
-            },
-            {
-              label: 'Playground',
-              to: 'playground',
-            },
-          ],
-        },
-        {
-          title: 'Community',
-          items: [
-            {
-              label: 'Apply',
-              to: 'apply',
-            },
-            {
-              label: 'Forum',
-              href: 'https://discourse.algolia.com/tags/docsearch',
-            },
-            {
-              label: 'Discord',
-              href: 'https://discord.gg/tXdr5mP',
-            },
-          ],
-        },
-        {
-          title: 'Social',
-          items: [
-            {
-              label: 'GitHub',
-              to: 'https://github.com/algolia/docsearch',
-            },
-            {
-              label: 'Twitter',
-              to: 'https://twitter.com/docsearch_',
-            },
-            {
-              label: 'Algolia Blog',
-              to: 'https://blog.algolia.com/',
+              label: 'Privacy policy',
+              to: 'docs/legal/privacy-policy',
             },
           ],
         },
       ],
-      logo: {
-        alt: 'Algolia',
-        src: 'img/algolia-logo.svg',
-      },
-      copyright: `DocSearch 2015-now • Designed and Built by Algolia`,
+      copyright: `Icelandic funds 2010-now.`,
     },
-    image: 'img/og_image.png',
   },
   presets: [
     [
