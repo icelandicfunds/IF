@@ -61,7 +61,7 @@ module.exports = {
           ],
         },
       ],
-      copyright: `Icelandic funds 2010-now.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Icelandic funds.`,
     },
   },
   presets: [
