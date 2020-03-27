@@ -67,26 +67,24 @@ function Home() {
       </Section>
 
       <Section background="white">
-        <SectionHeader title="How it works" />
+        <SectionHeader title="How we invest" />
         <NumberedList columns={3}>
-          <TextBlock title="We scrape your documentation" label="Scraping">
+          <TextBlock title="We meet your needs" label="Your needs">
             <Text>
-              We built a website crawler designed to index every section of your
-              documentation.
+              We first ask you about your goals and risk preference.
             </Text>
             <Text>
-              Just send us the URL of your documentation, and we’ll run the
-              scraper every 24h so you’re always up-to-date.
+              With that information, we help you choose a portfolio that meets your needs.
             </Text>
           </TextBlock>
-          <TextBlock title="We configure your search" label="Configuration">
+          <TextBlock title="We spread the risk" label="Diversification">
             <Text>
-              You don’t need to configure any settings or even have an Algolia
-              account.
+              All of our portfolios are diversified.
             </Text>
             <Text>
-              We take care of this automatically to ensure the best
-              documentation search experience.
+              Your money is invested across different types of assets, countries, 
+              and industries, which spreads the risk of your investments while 
+              improving your opportunity for higher returns.
             </Text>
           </TextBlock>
           <TextBlock
