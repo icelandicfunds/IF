@@ -17,20 +17,5 @@ module.exports = {
       'method/diversification',
       'method/simplification',
     ],
-    'Adding DocSearch to your UI': ['dropdown', 'styling', 'behavior'],
-    'Requirements, tips, FAQ': [
-      'required-configuration',
-      'tips',
-      'more',
-      'faq',
-      'integrations',
-    ],
-    'Under the Hood': [
-      'scraper',
-      'inside-the-engine',
-      'config-file',
-      'how-do-we-build-an-index',
-      'run-your-own',
-    ],
   },
 };
