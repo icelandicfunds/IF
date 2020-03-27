@@ -43,6 +43,11 @@ module.exports = {
           to: 'docs/method/tangibility',
           position: 'right',
         },
+        {
+          label: 'Contact',
+          to: 'docs/contact',
+          position: 'right',
+        },
       ],
     },
     footer: {
