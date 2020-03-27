@@ -66,7 +66,7 @@ function Home() {
         </SectionHeader>
       </Section>
 
-      <Section>
+      <Section background="white">
         <SectionHeader title="How it works" />
         <NumberedList columns={3}>
           <TextBlock title="We scrape your documentation" label="Scraping">
