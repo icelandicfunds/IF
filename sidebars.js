@@ -17,7 +17,7 @@ module.exports = {
       'method/perspective',
       'method/strategy',
       'method/diversification',
-      'method/simplicty',
+      'method/simplicity',
     ],
   },
 };
