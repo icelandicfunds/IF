@@ -60,8 +60,8 @@ function Home() {
             and individuals across the globe.
           </Text>
           <Text style={{ maxWidth: '800px' }}>
-            We invest across different asset classes including private equity, 
-            real estate, public debt and equity, and real assets.
+            We invest across different asset classes including financials assets, 
+            real estate and real assets.
           </Text>
         </SectionHeader>
       </Section>
@@ -95,6 +95,9 @@ function Home() {
             </Text>
             <Text>
               No one should invest in something that cannot be understood. 
+            </Text>
+            <Text>
+              We like to keep it simple.
             </Text>
           </TextBlock>
         </NumberedList>
