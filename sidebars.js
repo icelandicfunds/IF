@@ -15,9 +15,9 @@ module.exports = {
     ],
     'Method': [
       'method/investment-strategy',
-      'method/tangibility',
       'method/diversification',
       'method/simplification',
+      'method/technology',
     ],
   },
 };
