@@ -18,7 +18,6 @@ module.exports = {
       'method/strategy',
       'method/diversification',
       'method/simplicty',
-      'method/technology',
     ],
   },
 };
