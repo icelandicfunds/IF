@@ -1,5 +1,5 @@
 ---
-title: Investment strategy
+title: Perspective
 ---
 
 The modern system of world finance is complex, interrelated and opaque, where what happened yesterday can and does affect what happens tomorrow, and where one wrong tug of the thread can cause it all to unravel.
