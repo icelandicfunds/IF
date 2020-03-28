@@ -60,7 +60,7 @@ function Home() {
             and individuals across the globe.
           </Text>
           <Text style={{ maxWidth: '800px' }}>
-            We invest across a wide range of asset classes including private equity, 
+            We invest across different asset classes including private equity, 
             real estate, public debt and equity, and real assets.
           </Text>
         </SectionHeader>
@@ -71,15 +71,15 @@ function Home() {
         <NumberedList columns={3}>
           <TextBlock title="We meet your needs" label="Your needs">
             <Text>
-              We first ask you about your goals and risk preference.
+              We first establish your goals and risk preference.
             </Text>
             <Text>
-              With that information, we help you choose a portfolio that meets your needs.
+              With that information, we help you choose a solution that meets your needs.
             </Text>
           </TextBlock>
           <TextBlock title="We spread the risk" label="Diversification">
             <Text>
-              All of our portfolios are diversified.
+              All of our solutions are diversified.
             </Text>
             <Text>
               Your money is invested across different types of assets, countries, 
@@ -88,16 +88,15 @@ function Home() {
             </Text>
           </TextBlock>
           <TextBlock
-            title="You add docsearch.js to your docs"
-            label="Implementation"
+            title="We keep it simple"
+            label="Simplification"
           >
             <Text>
-              We'll send you a script that integrates Algolia's autocomplete to
-              power your search.
+              If it is too complicated, it fosters too many unknowns.
             </Text>
             <Text>
-              You will receive the same speed, relevance, and best-in-class UX
-              as our paying customers.
+              No one should invest in something that cannot be understood. 
+              We like to keep it simple.
             </Text>
           </TextBlock>
         </NumberedList>
