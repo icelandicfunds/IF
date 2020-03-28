@@ -1,5 +1,5 @@
 ---
-title: Simplification
+title: Simplicity
 ---
 If it is too complicated, it fosters too many unknowns. No one should invest in something that cannot be understood. We like to keep it simple.
 
