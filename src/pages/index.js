@@ -88,7 +88,7 @@ function Home() {
           </TextBlock>
           <TextBlock
             title="We keep it simple"
-            label="Simplification"
+            label="Simplicity"
           >
             <Text>
               If it is too complicated, it fosters too many unknowns.
