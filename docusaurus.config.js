@@ -40,7 +40,7 @@ module.exports = {
         },
         {
           label: 'Method',
-          to: 'docs/method/tangibility',
+          to: 'docs/method/perspective',
           position: 'right',
         },
         {
