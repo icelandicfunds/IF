@@ -1,7 +1,5 @@
 ---
 title: Contact
----
-title: A Page with an Example Form
 form:
     name: contact-form
     fields:
@@ -42,3 +40,4 @@ form:
             body: "{% include 'forms/data.txt.twig' %}"
         - message: Thank you for your feedback!
         - display: thankyou
+  ---
