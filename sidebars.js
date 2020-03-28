@@ -11,6 +11,7 @@ module.exports = {
       'about/overview',
       'about/strength',
       'about/values',
+      'about/compliance',
     ],
     'Method': [
       'method/tangibility',
