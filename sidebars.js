@@ -14,9 +14,10 @@ module.exports = {
       'about/compliance',
     ],
     'Method': [
-      'method/investment-strategy',
+      'method/perspective',
+      'method/strategy',
       'method/diversification',
-      'method/simplification',
+      'method/simplicty',
       'method/technology',
     ],
   },
