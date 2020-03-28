@@ -83,8 +83,7 @@ function Home() {
             </Text>
             <Text>
               Your money is invested across different types of assets, countries, 
-              and industries, which spreads the risk of your investments while 
-              improving your opportunity for higher returns.
+              and industries, which spreads the risk of your investments.
             </Text>
           </TextBlock>
           <TextBlock
@@ -96,7 +95,6 @@ function Home() {
             </Text>
             <Text>
               No one should invest in something that cannot be understood. 
-              We like to keep it simple.
             </Text>
           </TextBlock>
         </NumberedList>
