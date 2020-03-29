@@ -16,8 +16,10 @@ module.exports = {
   projectName: 'if',
   themes: ['@docusaurus/theme-search-algolia'],
   plugins: ['my-loaders'], // loader required for .svg
-  gaTrackingId: 'UA-162176151-1',
   themeConfig: {
+    googleAnalytics: {
+      trackingID: 'UA-162176151-1',
+    },
     //algolia: {
       //apiKey: '25626fae796133dc1e734c6bcaaeac3c',
       //indexName: 'docsearch',
