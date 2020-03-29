@@ -16,12 +16,13 @@ module.exports = {
   projectName: 'if',
   themes: ['@docusaurus/theme-search-algolia'],
   plugins: ['my-loaders'], // loader required for .svg
+  gaTrackingId: 'UA-162176151-1',
   themeConfig: {
-    algolia: {
-      apiKey: '25626fae796133dc1e734c6bcaaeac3c',
-      indexName: 'docsearch',
-      algoliaOptions: {}, // Optional, if provided by Algolia
-    },
+    //algolia: {
+      //apiKey: '25626fae796133dc1e734c6bcaaeac3c',
+      //indexName: 'docsearch',
+      //algoliaOptions: {}, // Optional, if provided by Algolia
+    //},
     navbar: {
       logo: {
         alt: 'Icelandic funds',
