@@ -69,12 +69,12 @@ function Home() {
       <Section background="white">
         <SectionHeader title="How we invest" />
         <NumberedList columns={3}>
-          <TextBlock title="We meet your needs" label="Your needs">
+          <TextBlock title="Analysis" label="Fundamental investing">
             <Text>
-              We first establish your goals and risk preference.
+              We rely on economic theory and analysis to help us deliver long-term, repeatable results.
             </Text>
             <Text>
-              With that information, we help you choose a solution that meets your needs.
+              We use machine learning, distributed computing and other technologies.
             </Text>
           </TextBlock>
           <TextBlock title="We spread the risk" label="Diversification">
@@ -82,7 +82,7 @@ function Home() {
               All of our solutions are diversified.
             </Text>
             <Text>
-              Your money is invested across different types of assets, countries, 
+              We invest across different types of assets, countries, 
               and industries, which spreads the risk of your investments.
             </Text>
           </TextBlock>
